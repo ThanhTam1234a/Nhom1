@@ -1,4 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
+.title{
+    background-color: brown;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    height: 200px;
+    width: 100%;
 }
